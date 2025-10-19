@@ -43,12 +43,16 @@
     font-size: 12px;
     background-color: rgb(255 255 255 / 60%);
     width: 194px;
-    height: 234px;
+    height: 235px;
     border: black;
     border-radius: 10px;
     /* top: 17px; */
     margin-top: 2px;
     margin-bottom: 2px;
+}
+.label-color{
+    color: blue;
+    font-weight: bold;
 }
 
 
